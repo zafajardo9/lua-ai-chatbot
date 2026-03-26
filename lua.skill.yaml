@@ -1,15 +1,15 @@
 agent:
-  agentId: baseAgent_agent_1774309958616_gvtscks84
-  orgId: 660e92b4-bddf-4336-af52-17801d8a8b88
+  agentId: baseAgent_agent_1774528793456_vz5sq9ugt
+  orgId: 410440cf-452f-48c9-ad37-6411ba138f00
 skills:
   - name: knowledge-base-skill
-    skillId: ca09bcf5-ed53-4f99-840e-c404dfa2c3cf
-    version: 1.0.2
+    skillId: 30471995-4d14-4d3d-8e6f-684bf2b2bb92
+    version: 1.0.1
 webhooks: []
 jobs: []
 preprocessors: []
 postprocessors: []
 mcpServers: []
 backup:
-  lastHash: bcb954c26f33726b9b4e908bf16145849af58e2b5c068fb14ba2d0869684dc0e
-  lastPushedAt: '2026-03-23T23:58:25.620Z'
+  lastHash: 37741586fbd5c36c6073d714eaf1b950a9ff6cf0280834490e2e672c75dde939
+  lastPushedAt: '2026-03-26T12:46:29.799Z'
