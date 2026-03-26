@@ -22,14 +22,6 @@ body {
   background: var(--bg);
 }
 
-.lua-pop-widget,
-.lua-pop-button {
-  max-width: calc(100vw - 20px);
-}
-
-.lua-pop-button {
-  margin: 0 auto !important;
-}
 
 .page-shell {
   min-height: 100vh;
