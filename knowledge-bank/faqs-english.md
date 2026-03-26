@@ -19,7 +19,7 @@
 ## Package Details and Pricing
 
 ### How much is the Full Package?
-The enrollment for the **April 2025 CE board exam online review + refresher** is **₱11,499**. It includes:
+The enrollment for the **April 2025 CE board exam online review + refresher** is **11,499 Philippine pesos (₱11,499)**. It includes:
 
 - Full access to all lecture videos
 - Practice questions/assessments and solutions
@@ -34,7 +34,7 @@ The enrollment for the **April 2025 CE board exam online review + refresher** is
 - FREE PRC-allowed calculator (eligible for the first 100 enrollees)
 
 ### How much is the Correl Package?
-The **Correl Package** is **₱6,999**. It includes:
+The **Correl Package** is **6,999 Philippine pesos (₱6,999)**. It includes:
 
 - 6-month access to all lecture videos
 - Practice questions/assessments and solutions
@@ -45,7 +45,7 @@ The **Correl Package** is **₱6,999**. It includes:
 - FREE Molina CE Formula Book
 
 ### How much is the Refresher Package?
-The **Refresher Package** for the **April 2025 CE board exam** is **₱7,999**. It includes:
+The **Refresher Package** for the **April 2025 CE board exam** is **7,999 Philippine pesos (₱7,999)**. It includes:
 
 - Daily live lectures
 - Refresher pre-tests and post-tests with solutions
@@ -56,14 +56,14 @@ The **Refresher Package** for the **April 2025 CE board exam** is **₱7,999**. 
 - FREE Molina CE Formula Book
 
 ### How much is the Video Access Package?
-The **Video Access Package** for the **April 2025 CE board exam** is **₱4,999**. It includes:
+The **Video Access Package** for the **April 2025 CE board exam** is **4,999 Philippine pesos (₱4,999)**. It includes:
 
 - 6-month access to all lecture videos
 - Mock Exams
 - Additional study materials/resources
 
 ### How much is the Self-paced Package?
-The **Self-paced Package** is **₱8,499**. It includes:
+The **Self-paced Package** is **8,499 Philippine pesos (₱8,499)**. It includes:
 
 - Full access to all lecture videos
 - Practice questions/assessments and solutions
@@ -202,8 +202,8 @@ Discounts can only be applied to:
 - `FREEMOCKTEST10`
 
 ### How much are the transfer and re-enrollment fees?
-- **Transfer Fee** — ₱3,000
-- **Extension Fee** — ₱5,750
+- **Transfer Fee** — 3,000 Philippine pesos (₱3,000)
+- **Extension Fee** — 5,750 Philippine pesos (₱5,750)
 
 ---
 
@@ -302,7 +302,7 @@ Placeholder in source document: `Ask Kevin`
 Placeholder in source document: `Include here the freebies shipping process/flowchart`
 
 ### Will we be covering the shipping fee on Lazada?
-Yes. You will be responsible for the shipping fee plus a **₱50 processing fee**.
+Yes. You will be responsible for the shipping fee plus a **50 Philippine peso processing fee (₱50)**.
 
 ### How can I track my package after shipping?
 You can track it in the **Lazada app**.
@@ -326,7 +326,7 @@ Placeholder in source document: `Ask Kevin`
 No. Kippap does **not provide online copies** of printed handouts.
 
 ### Can I buy the printed handouts if my package doesn’t include a free book?
-Yes. Printed handouts can be purchased for **₱1,000**. Email **kippap.logistics@gmail.com** for instructions.
+Yes. Printed handouts can be purchased for **1,000 Philippine pesos (₱1,000)**. Email **kippap.logistics@gmail.com** for instructions.
 
 ### Can re-enrollees receive freebies, including a calculator?
 Re-enrollees are not eligible unless they did not receive the handouts, Molina CE Formula Book, or other freebies in the previous batch. If they were previously eligible for the calculator but did not claim it, they may still receive it.
@@ -465,8 +465,8 @@ You can check the official PRC-approved calculator list here:
 ## Package and Payment FAQs to organize
 The source document also includes extra notes to be organized into the existing FAQ set, including:
 
-- April 2024 CE Board Exam Full Package — ₱10,999
-- Nov 2024 CE Board Exam Full Package — ₱10,999
+- April 2024 CE Board Exam Full Package — 10,999 Philippine pesos (₱10,999)
+- Nov 2024 CE Board Exam Full Package — 10,999 Philippine pesos (₱10,999)
 - System of review
 - F2F review clarification
 - Retaker suitability

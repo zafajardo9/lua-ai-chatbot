@@ -52,21 +52,37 @@ function getWidgetConfig() {
     environment: isCustomApi ? "custom" : "production",
     customBaseApiUri: isCustomApi ? apiUrl : undefined,
     chatTitle: "Sales Assistant",
-    buttonText: "Chat with us",
+    buttonText: "Chat",
+    buttonIcon: "💬",
     buttonColor: "#ca7a2c",
     welcomeMessage: "Hi there. How can I help you today?",
     chatInputPlaceholder: isVoiceSafeHost
       ? "Type or tap the mic to speak..."
       : "Ask a question or tell us what you need...",
     voiceModeEnabled: isVoiceSafeHost,
+    popupButtonStyles: {
+      borderRadius: "999px",
+      width: "auto",
+      height: "48px",
+      padding: "0 18px",
+      fontSize: "15px",
+      fontWeight: "600",
+      boxShadow: "0 6px 20px rgba(0, 0, 0, 0.18)",
+      border: "1px solid rgba(255, 255, 255, 0.14)",
+    },
     popupButtonPositionalContainerStyles: {
       zIndex: "9999",
-      bottom: "24px",
-      right: "24px",
+      bottom: "20px",
+      left: "50%",
+      right: "auto",
+      transform: "translateX(-50%)",
+      width: "auto",
+      display: "flex",
+      justifyContent: "center",
     },
     chatWindowWidth:
       typeof window !== "undefined" && window.innerWidth < 640
-        ? "calc(100vw - 24px)"
+        ? "calc(100vw - 20px)"
         : "380px",
     chatWindowHeight:
       typeof window !== "undefined" && window.innerWidth < 640
