@@ -69,13 +69,6 @@ function getWidgetConfig() {
       fontWeight: "600",
       boxShadow: "0 4px 12px rgba(0, 0, 0, 0.15)",
     },
-    popupButtonPositionalContainerStyles: {
-      bottom: "24px",
-      left: "50%",
-      right: "auto",
-      transform: "translateX(-50%)",
-      zIndex: "9999",
-    },
     chatWindowWidth:
       typeof window !== "undefined" && window.innerWidth < 640
         ? "calc(100vw - 20px)"
