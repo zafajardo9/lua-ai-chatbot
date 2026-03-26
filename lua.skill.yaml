@@ -1,0 +1,15 @@
+agent:
+  agentId: baseAgent_agent_1774309958616_gvtscks84
+  orgId: 660e92b4-bddf-4336-af52-17801d8a8b88
+skills:
+  - name: knowledge-base-skill
+    skillId: ca09bcf5-ed53-4f99-840e-c404dfa2c3cf
+    version: 1.0.2
+webhooks: []
+jobs: []
+preprocessors: []
+postprocessors: []
+mcpServers: []
+backup:
+  lastHash: bcb954c26f33726b9b4e908bf16145849af58e2b5c068fb14ba2d0869684dc0e
+  lastPushedAt: '2026-03-23T23:58:25.620Z'
